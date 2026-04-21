@@ -14,5 +14,27 @@ button:hover{
 .wrapper{
     background-color: black;
     border-radius: 1em;
-    
+    padding: 1em;
+}
+
+.orange{
+    background-color: #ff6a00;
+    color: white;
+}
+
+.gray{
+    background-color: #505050;
+    color: white;
+}
+
+.lihtgray{
+    background-color: #878686;
+}
+
+.result{
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1em;
+    font-size: 3em;
 }
